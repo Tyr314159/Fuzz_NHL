@@ -1,4 +1,4 @@
-# Fuzz_NHL
+# NHL_Python
 Scripts to get NHL game schedules and scores
 
 # Setup Python
